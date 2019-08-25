@@ -9,3 +9,7 @@
 ## 关于bug
 
 挺多的，重点是蛇身移动的思想
+
+## 演示地址
+
+[https://big-stiff.github.io/Retro-Snaker/](https://big-stiff.github.io/Retro-Snaker/)
