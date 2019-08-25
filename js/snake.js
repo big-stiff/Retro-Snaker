@@ -1,4 +1,4 @@
-(function() {
+(function(window, undefined) {
     function Snake(option) {
         let options = option || {};
         //初始的三段身子
@@ -99,4 +99,4 @@
         }
     }
     window.Snake = Snake;
-})()
+})(window, undefined)
